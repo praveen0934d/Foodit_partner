@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        This is the mobilesdk_app_id for com.example.foodit_partner
+        from google-services.json — required for RecaptchaActivity
+        to redirect back to the app instead of opening a browser.
+    -->
+    <string name="google_app_id">1:148339398774:android:e3bf539e2b1821fb5d6757</string>
+</resources>
